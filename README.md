@@ -5,7 +5,7 @@
 ## Hey! 👋
 ### I'm Aditya, a 21 years old developer from India.
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/adityatheoctocatdev/open-source-badge/)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 ```python
 #!/usr/bin/python
