@@ -19,8 +19,11 @@ class SoftwareEngineer:
         self.name = "Aditya Patel"
         self.role = "Software Engineer"
 
+    def __str__(self):
+        return "Hello, I'm " + self.name + " And I'm a " + self.role
 
-me = SoftwareEngineer()
+if __name__ == "__main__"
+    me = SoftwareEngineer()
 ```
 
 <p align="center">
