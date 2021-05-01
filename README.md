@@ -26,6 +26,7 @@ me = SoftwareEngineer()
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityatheoctocatdev&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityatheoctocatdev&theme=tokyonight" />
+  <img alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 </p>
 
 **Connect with me on twitter: [@adptheoctcatdev](https://twitter.com/adptheoctcatdev)**
