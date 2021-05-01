@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-### I'm Aditya, a 21 years old developer from India.
+### I'm Aditya, A 21 years old developer from India.
 
 **🧭 Founder at [@thesemicolondevs](https://github.com/thesemicolondevs)**
 
@@ -27,3 +27,5 @@ me = SoftwareEngineer()
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityatheoctocatdev&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityatheoctocatdev&theme=tokyonight" />
 </p>
+
+**Connect with me on twitter: [@adptheoctcatdev](https://twitter.com/adptheoctcatdev)**
