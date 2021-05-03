@@ -35,10 +35,11 @@ if __name__ == "__main__"
     me = SoftwareEngineer()
 ```
 
+[![adityatheoctocatdev's's github activity graph](https://activity-graph.herokuapp.com/graph?username=adityatheoctocatdev&theme=xcode)](https://git.io/adityatheoctocatdev)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityatheoctocatdev&show_icons=true&theme=dark&hide_border=true&background=0D1117&stroke=0000" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityatheoctocatdev&theme=dark&hide_border=true&background=0D1117&stroke=0000" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityatheoctocatdev&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityatheoctocatdev&theme=dark&hide_border=true" />
   <img alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 </p>
 
