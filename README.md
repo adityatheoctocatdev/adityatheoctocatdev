@@ -10,6 +10,15 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=adityatheoctocatdev.adityatheoctocatdev)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
+<p align="center">
+  <a href="https://github.com/adityatheoctocatdev?tab=followers">
+    <img src="https://img.shields.io/github/followers/adityatheoctocatdev?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/adptheoctocatdev">
+    <img src="https://img.shields.io/twitter/follow/adptheoctcatdev?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -31,8 +40,6 @@ if __name__ == "__main__"
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityatheoctocatdev&theme=tokyonight" />
   <img alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 </p>
-
-**Connect with me on twitter: [@adptheoctcatdev](https://twitter.com/adptheoctcatdev)**
 
 ### :zap: Recent Activity
 
