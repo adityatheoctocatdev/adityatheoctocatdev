@@ -46,9 +46,9 @@ if __name__ == "__main__"
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/15) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-2. 🎉 Merged PR [#16](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/16) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-3. 💪 Opened PR [#16](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/16) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-4. ❗️ Opened issue [#15](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/15) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-5. 🎉 Merged PR [#14](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/14) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+1. 💪 Opened PR [#75](https://github.com/eddiejaoude/eddiejaoude/pull/75) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+2. ❌ Closed PR [#74](https://github.com/eddiejaoude/eddiejaoude/pull/74) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+3. 💪 Opened PR [#74](https://github.com/eddiejaoude/eddiejaoude/pull/74) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+4. 🎉 Merged PR [#17](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/17) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+5. 💪 Opened PR [#17](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/17) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
 <!--END_SECTION:activity-->
