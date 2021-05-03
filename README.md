@@ -37,4 +37,9 @@ if __name__ == "__main__"
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#12](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/12) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+2. 💪 Opened PR [#12](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/12) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+3. 🎉 Merged PR [#11](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/11) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+4. 💪 Opened PR [#11](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/11) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+5. 🎉 Merged PR [#10](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/10) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
 <!--END_SECTION:activity-->
