@@ -14,7 +14,7 @@
   <a href="https://github.com/adityatheoctocatdev?tab=followers">
     <img src="https://img.shields.io/github/followers/adityatheoctocatdev?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/adptheoctocatdev">
+  <a href="https://twitter.com/adptheoctcatdev">
     <img src="https://img.shields.io/twitter/follow/adptheoctcatdev?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
