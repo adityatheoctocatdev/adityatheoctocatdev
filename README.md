@@ -32,4 +32,9 @@ if __name__ == "__main__"
   <img alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 </p>
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 **Connect with me on twitter: [@adptheoctcatdev](https://twitter.com/adptheoctcatdev)**
