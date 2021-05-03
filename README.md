@@ -35,6 +35,5 @@ if __name__ == "__main__"
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 **Connect with me on twitter: [@adptheoctcatdev](https://twitter.com/adptheoctcatdev)**
