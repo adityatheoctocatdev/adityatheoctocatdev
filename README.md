@@ -38,8 +38,12 @@ if __name__ == "__main__":
 ![adityatheoctocatdev's's github activity graph](https://activity-graph.herokuapp.com/graph?username=adityatheoctocatdev&theme=xcode&hide_border=true)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityatheoctocatdev&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityatheoctocatdev&theme=dark&hide_border=true" />
+  <a href="https://github-readme-stats.vercel.app/api?username=adityatheoctocatdev&show_icons=true&theme=dark&hide_border=true">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityatheoctocatdev&show_icons=true&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=adityatheoctocatdev&theme=dark&hide_border=true">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityatheoctocatdev&theme=dark&hide_border=true" />
+  </a>
   <img alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 </p>
 
