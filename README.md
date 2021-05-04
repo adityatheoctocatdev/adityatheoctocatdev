@@ -46,9 +46,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/eddiejaoude/eddiejaoude/pull/75) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-2. ❌ Closed PR [#74](https://github.com/eddiejaoude/eddiejaoude/pull/74) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-3. 💪 Opened PR [#74](https://github.com/eddiejaoude/eddiejaoude/pull/74) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-4. 🎉 Merged PR [#17](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/17) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-5. 💪 Opened PR [#17](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/17) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+1. ❗️ Closed issue [#18](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/18) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+2. 🗣 Commented on [#18](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/18) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+3. 🎉 Merged PR [#19](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/19) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+4. 💪 Opened PR [#19](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/19) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+5. ❗️ Opened issue [#18](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/18) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
 <!--END_SECTION:activity-->
