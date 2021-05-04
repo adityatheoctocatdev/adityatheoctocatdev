@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/20) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-2. 🗣 Commented on [#20](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/20) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-3. 🎉 Merged PR [#21](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/21) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-4. 💪 Opened PR [#21](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/21) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-5. ❗️ Opened issue [#20](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/20) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+1. 🎉 Merged PR [#23](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/23) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+2. ❗️ Closed issue [#22](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/22) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+3. 💪 Opened PR [#23](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/23) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+4. ❗️ Opened issue [#22](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/22) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+5. ❗️ Closed issue [#20](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/20) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
 <!--END_SECTION:activity-->
