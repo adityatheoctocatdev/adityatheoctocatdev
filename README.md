@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#85](https://github.com/eddiejaoude/eddiejaoude/pull/85) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-2. ❌ Closed PR [#75](https://github.com/eddiejaoude/eddiejaoude/pull/75) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-3. 🎉 Merged PR [#23](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/23) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-4. ❗️ Closed issue [#22](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/22) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-5. 💪 Opened PR [#23](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/23) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+1. 🎉 Merged PR [#4](https://github.com/adityatheoctocatdev/web-dev-roadmap/pull/4) in [adityatheoctocatdev/web-dev-roadmap](https://github.com/adityatheoctocatdev/web-dev-roadmap)
+2. ❗️ Closed issue [#3](https://github.com/adityatheoctocatdev/web-dev-roadmap/issues/3) in [adityatheoctocatdev/web-dev-roadmap](https://github.com/adityatheoctocatdev/web-dev-roadmap)
+3. 💪 Opened PR [#4](https://github.com/adityatheoctocatdev/web-dev-roadmap/pull/4) in [adityatheoctocatdev/web-dev-roadmap](https://github.com/adityatheoctocatdev/web-dev-roadmap)
+4. ❗️ Opened issue [#3](https://github.com/adityatheoctocatdev/web-dev-roadmap/issues/3) in [adityatheoctocatdev/web-dev-roadmap](https://github.com/adityatheoctocatdev/web-dev-roadmap)
+5. 🎉 Merged PR [#2](https://github.com/adityatheoctocatdev/web-dev-roadmap/pull/2) in [adityatheoctocatdev/web-dev-roadmap](https://github.com/adityatheoctocatdev/web-dev-roadmap)
 <!--END_SECTION:activity-->
