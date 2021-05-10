@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6205](https://github.com/github/docs/pull/6205) in [github/docs](https://github.com/github/docs)
-2. 🎉 Merged PR [#25](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/25) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-3. 💪 Opened PR [#25](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/25) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-4. ❗️ Closed issue [#16](https://github.com/adityatheoctocatdev/web-dev-roadmap/issues/16) in [adityatheoctocatdev/web-dev-roadmap](https://github.com/adityatheoctocatdev/web-dev-roadmap)
-5. 🎉 Merged PR [#17](https://github.com/adityatheoctocatdev/web-dev-roadmap/pull/17) in [adityatheoctocatdev/web-dev-roadmap](https://github.com/adityatheoctocatdev/web-dev-roadmap)
+1. ❌ Reopened PR [#6205](https://github.com/github/docs/pull/6205) in [github/docs](https://github.com/github/docs)
+2. ❌ Closed PR [#6205](https://github.com/github/docs/pull/6205) in [github/docs](https://github.com/github/docs)
+3. 💪 Opened PR [#6205](https://github.com/github/docs/pull/6205) in [github/docs](https://github.com/github/docs)
+4. 🎉 Merged PR [#25](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/25) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+5. 💪 Opened PR [#25](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/25) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
 <!--END_SECTION:activity-->
