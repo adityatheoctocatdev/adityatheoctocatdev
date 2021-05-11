@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#6205](https://github.com/github/docs/pull/6205) in [github/docs](https://github.com/github/docs)
-2. ❌ Closed PR [#6205](https://github.com/github/docs/pull/6205) in [github/docs](https://github.com/github/docs)
-3. 💪 Opened PR [#6205](https://github.com/github/docs/pull/6205) in [github/docs](https://github.com/github/docs)
-4. 🎉 Merged PR [#25](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/25) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-5. 💪 Opened PR [#25](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/25) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+1. 🎉 Merged PR [#6](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer/pull/6) in [adityatheoctocatdev/Pathfinding-Visualizer](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer)
+2. 🎉 Merged PR [#2](https://github.com/adityatheoctocatdev/shreepad-chatbot/pull/2) in [adityatheoctocatdev/shreepad-chatbot](https://github.com/adityatheoctocatdev/shreepad-chatbot)
+3. ❌ Reopened PR [#6205](https://github.com/github/docs/pull/6205) in [github/docs](https://github.com/github/docs)
+4. ❌ Closed PR [#6205](https://github.com/github/docs/pull/6205) in [github/docs](https://github.com/github/docs)
+5. 💪 Opened PR [#6205](https://github.com/github/docs/pull/6205) in [github/docs](https://github.com/github/docs)
 <!--END_SECTION:activity-->
