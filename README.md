@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6243](https://github.com/github/docs/pull/6243) in [github/docs](https://github.com/github/docs)
-2. 🎉 Merged PR [#6](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer/pull/6) in [adityatheoctocatdev/Pathfinding-Visualizer](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer)
-3. 🎉 Merged PR [#2](https://github.com/adityatheoctocatdev/shreepad-chatbot/pull/2) in [adityatheoctocatdev/shreepad-chatbot](https://github.com/adityatheoctocatdev/shreepad-chatbot)
-4. ❌ Reopened PR [#6205](https://github.com/github/docs/pull/6205) in [github/docs](https://github.com/github/docs)
-5. ❌ Closed PR [#6205](https://github.com/github/docs/pull/6205) in [github/docs](https://github.com/github/docs)
+1. 🎉 Merged PR [#26](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/26) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+2. 💪 Opened PR [#6243](https://github.com/github/docs/pull/6243) in [github/docs](https://github.com/github/docs)
+3. 🎉 Merged PR [#6](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer/pull/6) in [adityatheoctocatdev/Pathfinding-Visualizer](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer)
+4. 🎉 Merged PR [#2](https://github.com/adityatheoctocatdev/shreepad-chatbot/pull/2) in [adityatheoctocatdev/shreepad-chatbot](https://github.com/adityatheoctocatdev/shreepad-chatbot)
+5. ❌ Reopened PR [#6205](https://github.com/github/docs/pull/6205) in [github/docs](https://github.com/github/docs)
 <!--END_SECTION:activity-->
