@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/adityatheoctocatdev/compose-roadmap/pull/15) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-2. 🎉 Merged PR [#5](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead/pull/5) in [adityatheoctocatdev/node.js-by-andrew-mead](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead)
-3. ❗️ Closed issue [#4](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead/issues/4) in [adityatheoctocatdev/node.js-by-andrew-mead](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead)
-4. 💪 Opened PR [#5](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead/pull/5) in [adityatheoctocatdev/node.js-by-andrew-mead](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead)
-5. ❗️ Opened issue [#4](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead/issues/4) in [adityatheoctocatdev/node.js-by-andrew-mead](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead)
+1. ❌ Closed PR [#2](https://github.com/adityatheoctocatdev/docs/pull/2) in [adityatheoctocatdev/docs](https://github.com/adityatheoctocatdev/docs)
+2. 💪 Opened PR [#2](https://github.com/adityatheoctocatdev/docs/pull/2) in [adityatheoctocatdev/docs](https://github.com/adityatheoctocatdev/docs)
+3. ❌ Closed PR [#1](https://github.com/adityatheoctocatdev/docs/pull/1) in [adityatheoctocatdev/docs](https://github.com/adityatheoctocatdev/docs)
+4. 💪 Opened PR [#1](https://github.com/adityatheoctocatdev/docs/pull/1) in [adityatheoctocatdev/docs](https://github.com/adityatheoctocatdev/docs)
+5. 🎉 Merged PR [#15](https://github.com/adityatheoctocatdev/compose-roadmap/pull/15) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
 <!--END_SECTION:activity-->
