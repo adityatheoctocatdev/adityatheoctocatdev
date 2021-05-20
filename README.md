@@ -51,8 +51,8 @@ if __name__ == "__main__":
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#2](https://github.com/adityatheoctocatdev/docs/pull/2) in [adityatheoctocatdev/docs](https://github.com/adityatheoctocatdev/docs)
-2. 💪 Opened PR [#2](https://github.com/adityatheoctocatdev/docs/pull/2) in [adityatheoctocatdev/docs](https://github.com/adityatheoctocatdev/docs)
-3. ❌ Closed PR [#1](https://github.com/adityatheoctocatdev/docs/pull/1) in [adityatheoctocatdev/docs](https://github.com/adityatheoctocatdev/docs)
-4. 💪 Opened PR [#1](https://github.com/adityatheoctocatdev/docs/pull/1) in [adityatheoctocatdev/docs](https://github.com/adityatheoctocatdev/docs)
-5. 🎉 Merged PR [#15](https://github.com/adityatheoctocatdev/compose-roadmap/pull/15) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+2. ❌ Reopened PR [#2](https://github.com/adityatheoctocatdev/docs/pull/2) in [adityatheoctocatdev/docs](https://github.com/adityatheoctocatdev/docs)
+3. ❌ Reopened PR [#6243](https://github.com/github/docs/pull/6243) in [github/docs](https://github.com/github/docs)
+4. ❌ Closed PR [#6243](https://github.com/github/docs/pull/6243) in [github/docs](https://github.com/github/docs)
+5. ❌ Closed PR [#2](https://github.com/adityatheoctocatdev/docs/pull/2) in [adityatheoctocatdev/docs](https://github.com/adityatheoctocatdev/docs)
 <!--END_SECTION:activity-->
