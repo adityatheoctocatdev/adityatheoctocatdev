@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/adityatheoctocatdev/docs/pull/2) in [adityatheoctocatdev/docs](https://github.com/adityatheoctocatdev/docs)
-2. ❌ Reopened PR [#2](https://github.com/adityatheoctocatdev/docs/pull/2) in [adityatheoctocatdev/docs](https://github.com/adityatheoctocatdev/docs)
-3. ❌ Reopened PR [#6243](https://github.com/github/docs/pull/6243) in [github/docs](https://github.com/github/docs)
-4. ❌ Closed PR [#6243](https://github.com/github/docs/pull/6243) in [github/docs](https://github.com/github/docs)
-5. ❌ Closed PR [#2](https://github.com/adityatheoctocatdev/docs/pull/2) in [adityatheoctocatdev/docs](https://github.com/adityatheoctocatdev/docs)
+1. 🗣 Commented on [#6243](https://github.com/github/docs/issues/6243) in [github/docs](https://github.com/github/docs)
+2. ❌ Closed PR [#2](https://github.com/adityatheoctocatdev/docs/pull/2) in [adityatheoctocatdev/docs](https://github.com/adityatheoctocatdev/docs)
+3. ❌ Reopened PR [#2](https://github.com/adityatheoctocatdev/docs/pull/2) in [adityatheoctocatdev/docs](https://github.com/adityatheoctocatdev/docs)
+4. ❌ Reopened PR [#6243](https://github.com/github/docs/pull/6243) in [github/docs](https://github.com/github/docs)
+5. ❌ Closed PR [#6243](https://github.com/github/docs/pull/6243) in [github/docs](https://github.com/github/docs)
 <!--END_SECTION:activity-->
