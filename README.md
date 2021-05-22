@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/adityatheoctocatdev/compose-roadmap/pull/20) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-2. ❗️ Opened issue [#19](https://github.com/adityatheoctocatdev/compose-roadmap/issues/19) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-3. ❗️ Closed issue [#18](https://github.com/adityatheoctocatdev/compose-roadmap/issues/18) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-4. ❗️ Opened issue [#18](https://github.com/adityatheoctocatdev/compose-roadmap/issues/18) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-5. 🎉 Merged PR [#17](https://github.com/adityatheoctocatdev/compose-roadmap/pull/17) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+1. ❌ Reopened PR [#23](https://github.com/adityatheoctocatdev/compose-roadmap/pull/23) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+2. ❌ Closed PR [#23](https://github.com/adityatheoctocatdev/compose-roadmap/pull/23) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+3. 🎉 Merged PR [#22](https://github.com/adityatheoctocatdev/compose-roadmap/pull/22) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+4. 💪 Opened PR [#22](https://github.com/adityatheoctocatdev/compose-roadmap/pull/22) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+5. 🎉 Merged PR [#21](https://github.com/adityatheoctocatdev/compose-roadmap/pull/21) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
 <!--END_SECTION:activity-->
