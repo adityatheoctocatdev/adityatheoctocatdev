@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7147](https://github.com/material-components/material-components-web/issues/7147) in [material-components/material-components-web](https://github.com/material-components/material-components-web)
-2. 💪 Opened PR [#7147](https://github.com/material-components/material-components-web/pull/7147) in [material-components/material-components-web](https://github.com/material-components/material-components-web)
-3. 🎉 Merged PR [#27](https://github.com/adityatheoctocatdev/compose-roadmap/pull/27) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-4. ❗️ Closed issue [#26](https://github.com/adityatheoctocatdev/compose-roadmap/issues/26) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-5. 💪 Opened PR [#27](https://github.com/adityatheoctocatdev/compose-roadmap/pull/27) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+1. 🗣 Commented on [#6243](https://github.com/github/docs/issues/6243) in [github/docs](https://github.com/github/docs)
+2. 🗣 Commented on [#7147](https://github.com/material-components/material-components-web/issues/7147) in [material-components/material-components-web](https://github.com/material-components/material-components-web)
+3. 💪 Opened PR [#7147](https://github.com/material-components/material-components-web/pull/7147) in [material-components/material-components-web](https://github.com/material-components/material-components-web)
+4. 🎉 Merged PR [#27](https://github.com/adityatheoctocatdev/compose-roadmap/pull/27) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+5. ❗️ Closed issue [#26](https://github.com/adityatheoctocatdev/compose-roadmap/issues/26) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
 <!--END_SECTION:activity-->
