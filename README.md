@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead/issues/5) in [adityatheoctocatdev/node.js-by-andrew-mead](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead)
-2. 🎉 Merged PR [#4](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead/pull/4) in [adityatheoctocatdev/node.js-by-andrew-mead](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead)
-3. 💪 Opened PR [#4](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead/pull/4) in [adityatheoctocatdev/node.js-by-andrew-mead](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead)
-4. 🎉 Merged PR [#3](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead/pull/3) in [adityatheoctocatdev/node.js-by-andrew-mead](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead)
-5. 💪 Opened PR [#3](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead/pull/3) in [adityatheoctocatdev/node.js-by-andrew-mead](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead)
+1. 💪 Opened PR [#6](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead/pull/6) in [adityatheoctocatdev/node.js-by-andrew-mead](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead)
+2. ❗️ Opened issue [#5](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead/issues/5) in [adityatheoctocatdev/node.js-by-andrew-mead](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead)
+3. 🎉 Merged PR [#4](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead/pull/4) in [adityatheoctocatdev/node.js-by-andrew-mead](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead)
+4. 💪 Opened PR [#4](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead/pull/4) in [adityatheoctocatdev/node.js-by-andrew-mead](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead)
+5. 🎉 Merged PR [#3](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead/pull/3) in [adityatheoctocatdev/node.js-by-andrew-mead](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead)
 <!--END_SECTION:activity-->
