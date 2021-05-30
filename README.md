@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#76108](https://github.com/MicrosoftDocs/azure-docs/pull/76108) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-2. 🗣 Commented on [#6243](https://github.com/github/docs/issues/6243) in [github/docs](https://github.com/github/docs)
-3. 🗣 Commented on [#7147](https://github.com/material-components/material-components-web/issues/7147) in [material-components/material-components-web](https://github.com/material-components/material-components-web)
-4. 💪 Opened PR [#7147](https://github.com/material-components/material-components-web/pull/7147) in [material-components/material-components-web](https://github.com/material-components/material-components-web)
-5. 🎉 Merged PR [#27](https://github.com/adityatheoctocatdev/compose-roadmap/pull/27) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+1. 🎉 Merged PR [#6](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead/pull/6) in [adityatheoctocatdev/node.js-by-andrew-mead](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead)
+2. 💪 Opened PR [#76108](https://github.com/MicrosoftDocs/azure-docs/pull/76108) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+3. 🗣 Commented on [#6243](https://github.com/github/docs/issues/6243) in [github/docs](https://github.com/github/docs)
+4. 🗣 Commented on [#7147](https://github.com/material-components/material-components-web/issues/7147) in [material-components/material-components-web](https://github.com/material-components/material-components-web)
+5. 💪 Opened PR [#7147](https://github.com/material-components/material-components-web/pull/7147) in [material-components/material-components-web](https://github.com/material-components/material-components-web)
 <!--END_SECTION:activity-->
