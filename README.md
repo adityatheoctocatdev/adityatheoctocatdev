@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/adityatheoctocatdev/compose-roadmap/pull/29) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-2. ❗️ Closed issue [#28](https://github.com/adityatheoctocatdev/compose-roadmap/issues/28) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-3. 💪 Opened PR [#29](https://github.com/adityatheoctocatdev/compose-roadmap/pull/29) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-4. ❗️ Opened issue [#28](https://github.com/adityatheoctocatdev/compose-roadmap/issues/28) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-5. 🎉 Merged PR [#12](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead/pull/12) in [adityatheoctocatdev/node.js-by-andrew-mead](https://github.com/adityatheoctocatdev/node.js-by-andrew-mead)
+1. 🎉 Merged PR [#17](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/17) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 💪 Opened PR [#17](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/17) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+3. 🎉 Merged PR [#16](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/16) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+4. 💪 Opened PR [#16](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/16) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. 🎉 Merged PR [#15](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/15) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
 <!--END_SECTION:activity-->
