@@ -51,9 +51,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/27) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-2. 💪 Opened PR [#27](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/27) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-3. 💪 Opened PR [#3672](https://github.com/vitejs/vite/pull/3672) in [vitejs/vite](https://github.com/vitejs/vite)
-4. 🎉 Merged PR [#36](https://github.com/thesemicolondevs/compose-roadmap/pull/36) in [thesemicolondevs/compose-roadmap](https://github.com/thesemicolondevs/compose-roadmap)
-5. 🎉 Merged PR [#18](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/18) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+1. ❗️ Closed issue [#21](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/21) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 🎉 Merged PR [#22](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/22) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+3. 💪 Opened PR [#22](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/22) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+4. ❗️ Opened issue [#21](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/21) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. ❗️ Closed issue [#19](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/19) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
 <!--END_SECTION:activity-->
