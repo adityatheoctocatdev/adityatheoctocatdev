@@ -51,9 +51,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/23) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-2. ❗️ Closed issue [#21](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/21) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-3. 🎉 Merged PR [#22](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/22) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-4. 💪 Opened PR [#22](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/22) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-5. ❗️ Opened issue [#21](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/21) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+1. 🎉 Merged PR [#1](https://github.com/adityatheoctocatdev/material-components-web/pull/1) in [adityatheoctocatdev/material-components-web](https://github.com/adityatheoctocatdev/material-components-web)
+2. 🎉 Merged PR [#23](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/23) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+3. ❗️ Closed issue [#21](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/21) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+4. 🎉 Merged PR [#22](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/22) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. 💪 Opened PR [#22](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/22) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
 <!--END_SECTION:activity-->
