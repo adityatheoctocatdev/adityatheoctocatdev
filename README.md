@@ -51,9 +51,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/thesemicolondevs/jetpack-compose-roadmap/pull/7) in [thesemicolondevs/jetpack-compose-roadmap](https://github.com/thesemicolondevs/jetpack-compose-roadmap)
-2. ❗️ Closed issue [#5](https://github.com/thesemicolondevs/jetpack-compose-roadmap/issues/5) in [thesemicolondevs/jetpack-compose-roadmap](https://github.com/thesemicolondevs/jetpack-compose-roadmap)
-3. 🎉 Merged PR [#6](https://github.com/thesemicolondevs/jetpack-compose-roadmap/pull/6) in [thesemicolondevs/jetpack-compose-roadmap](https://github.com/thesemicolondevs/jetpack-compose-roadmap)
-4. 💪 Opened PR [#6](https://github.com/thesemicolondevs/jetpack-compose-roadmap/pull/6) in [thesemicolondevs/jetpack-compose-roadmap](https://github.com/thesemicolondevs/jetpack-compose-roadmap)
-5. ❗️ Opened issue [#5](https://github.com/thesemicolondevs/jetpack-compose-roadmap/issues/5) in [thesemicolondevs/jetpack-compose-roadmap](https://github.com/thesemicolondevs/jetpack-compose-roadmap)
+1. 🎉 Merged PR [#24](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/24) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 🎉 Merged PR [#7](https://github.com/thesemicolondevs/jetpack-compose-roadmap/pull/7) in [thesemicolondevs/jetpack-compose-roadmap](https://github.com/thesemicolondevs/jetpack-compose-roadmap)
+3. ❗️ Closed issue [#5](https://github.com/thesemicolondevs/jetpack-compose-roadmap/issues/5) in [thesemicolondevs/jetpack-compose-roadmap](https://github.com/thesemicolondevs/jetpack-compose-roadmap)
+4. 🎉 Merged PR [#6](https://github.com/thesemicolondevs/jetpack-compose-roadmap/pull/6) in [thesemicolondevs/jetpack-compose-roadmap](https://github.com/thesemicolondevs/jetpack-compose-roadmap)
+5. 💪 Opened PR [#6](https://github.com/thesemicolondevs/jetpack-compose-roadmap/pull/6) in [thesemicolondevs/jetpack-compose-roadmap](https://github.com/thesemicolondevs/jetpack-compose-roadmap)
 <!--END_SECTION:activity-->
