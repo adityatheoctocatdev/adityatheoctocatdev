@@ -51,9 +51,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/25) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-2. 🎉 Merged PR [#9](https://github.com/thesemicolondevs/jetpack-compose-roadmap/pull/9) in [thesemicolondevs/jetpack-compose-roadmap](https://github.com/thesemicolondevs/jetpack-compose-roadmap)
-3. 🎉 Merged PR [#39](https://github.com/adityatheoctocatdev/compose-roadmap/pull/39) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-4. 🎉 Merged PR [#24](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/24) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-5. 🎉 Merged PR [#7](https://github.com/thesemicolondevs/jetpack-compose-roadmap/pull/7) in [thesemicolondevs/jetpack-compose-roadmap](https://github.com/thesemicolondevs/jetpack-compose-roadmap)
+1. 🎉 Merged PR [#10](https://github.com/thesemicolondevs/jetpack-compose-roadmap/pull/10) in [thesemicolondevs/jetpack-compose-roadmap](https://github.com/thesemicolondevs/jetpack-compose-roadmap)
+2. 🎉 Merged PR [#25](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/25) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+3. 🎉 Merged PR [#9](https://github.com/thesemicolondevs/jetpack-compose-roadmap/pull/9) in [thesemicolondevs/jetpack-compose-roadmap](https://github.com/thesemicolondevs/jetpack-compose-roadmap)
+4. 🎉 Merged PR [#39](https://github.com/adityatheoctocatdev/compose-roadmap/pull/39) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+5. 🎉 Merged PR [#24](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/24) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
 <!--END_SECTION:activity-->
