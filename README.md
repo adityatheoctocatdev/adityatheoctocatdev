@@ -51,9 +51,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/26) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-2. 🎉 Merged PR [#10](https://github.com/thesemicolondevs/jetpack-compose-roadmap/pull/10) in [thesemicolondevs/jetpack-compose-roadmap](https://github.com/thesemicolondevs/jetpack-compose-roadmap)
-3. 🎉 Merged PR [#25](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/25) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-4. 🎉 Merged PR [#9](https://github.com/thesemicolondevs/jetpack-compose-roadmap/pull/9) in [thesemicolondevs/jetpack-compose-roadmap](https://github.com/thesemicolondevs/jetpack-compose-roadmap)
-5. 🎉 Merged PR [#39](https://github.com/adityatheoctocatdev/compose-roadmap/pull/39) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+1. 🎉 Merged PR [#27](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/27) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. ❗️ Closed issue [#26](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/26) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+3. 💪 Opened PR [#27](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/27) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+4. ❗️ Opened issue [#26](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/26) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. 🎉 Merged PR [#10](https://github.com/thesemicolondevs/jetpack-compose-roadmap/pull/10) in [thesemicolondevs/jetpack-compose-roadmap](https://github.com/thesemicolondevs/jetpack-compose-roadmap)
 <!--END_SECTION:activity-->
