@@ -51,9 +51,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/29) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-2. 💪 Opened PR [#22767](https://github.com/atom/atom/pull/22767) in [atom/atom](https://github.com/atom/atom)
-3. 🎉 Merged PR [#28](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/28) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-4. 🎉 Merged PR [#11](https://github.com/thesemicolondevs/jetpack-compose-roadmap/pull/11) in [thesemicolondevs/jetpack-compose-roadmap](https://github.com/thesemicolondevs/jetpack-compose-roadmap)
-5. 💪 Opened PR [#8111](https://github.com/github/docs/pull/8111) in [github/docs](https://github.com/github/docs)
+1. 🎉 Merged PR [#42](https://github.com/adityatheoctocatdev/compose-roadmap/pull/42) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+2. 🎉 Merged PR [#46](https://github.com/adityatheoctocatdev/compose-roadmap/pull/46) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+3. 💪 Opened PR [#46](https://github.com/adityatheoctocatdev/compose-roadmap/pull/46) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+4. 🎉 Merged PR [#29](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/29) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. 💪 Opened PR [#22767](https://github.com/atom/atom/pull/22767) in [atom/atom](https://github.com/atom/atom)
 <!--END_SECTION:activity-->
