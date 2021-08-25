@@ -51,9 +51,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/adityatheoctocatdev/compose-roadmap/pull/49) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-2. 💪 Opened PR [#445](https://github.com/vercel/commerce/pull/445) in [vercel/commerce](https://github.com/vercel/commerce)
-3. 🎉 Merged PR [#32](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/32) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-4. 💪 Opened PR [#429](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/429) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#48](https://github.com/adityatheoctocatdev/compose-roadmap/pull/48) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+1. 🎉 Merged PR [#33](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/33) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 🎉 Merged PR [#49](https://github.com/adityatheoctocatdev/compose-roadmap/pull/49) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+3. 💪 Opened PR [#445](https://github.com/vercel/commerce/pull/445) in [vercel/commerce](https://github.com/vercel/commerce)
+4. 🎉 Merged PR [#32](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/32) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. 💪 Opened PR [#429](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/429) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
