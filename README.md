@@ -51,9 +51,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#35](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/35) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+1. 🎉 Merged PR [#37](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/37) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
 2. ❗️ Closed issue [#35](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/35) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-3. ❌ Closed PR [#36](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/36) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-4. 💪 Opened PR [#36](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/36) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-5. ❗️ Opened issue [#35](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/35) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+3. 💪 Opened PR [#37](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/37) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+4. ❗️ Reopened issue [#35](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/35) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. ❗️ Closed issue [#35](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/35) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
 <!--END_SECTION:activity-->
