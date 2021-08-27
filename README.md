@@ -51,9 +51,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#34](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/34) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-2. 🎉 Merged PR [#33](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/33) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-3. 🎉 Merged PR [#49](https://github.com/adityatheoctocatdev/compose-roadmap/pull/49) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-4. 💪 Opened PR [#445](https://github.com/vercel/commerce/pull/445) in [vercel/commerce](https://github.com/vercel/commerce)
-5. 🎉 Merged PR [#32](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/32) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+1. ❗️ Closed issue [#34](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/34) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. ❗️ Opened issue [#34](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/34) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+3. 🎉 Merged PR [#33](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/33) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+4. 🎉 Merged PR [#49](https://github.com/adityatheoctocatdev/compose-roadmap/pull/49) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+5. 💪 Opened PR [#445](https://github.com/vercel/commerce/pull/445) in [vercel/commerce](https://github.com/vercel/commerce)
 <!--END_SECTION:activity-->
