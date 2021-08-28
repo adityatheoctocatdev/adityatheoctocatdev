@@ -45,7 +45,6 @@ if __name__ == "__main__":
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=adityatheoctocatdev&theme=dark&hide_border=true">
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityatheoctocatdev&theme=dark&hide_border=true" />
   </a>
-  <img alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 </p>
 
 ### :zap: Recent Activity
