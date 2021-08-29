@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/29) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-2. ❗️ Closed issue [#28](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/28) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-3. 💪 Opened PR [#29](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/29) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-4. ❗️ Opened issue [#28](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/28) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-5. 🎉 Merged PR [#37](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/37) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+1. ❗️ Opened issue [#38](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/38) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 🎉 Merged PR [#29](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/29) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+3. ❗️ Closed issue [#28](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/28) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+4. 💪 Opened PR [#29](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/29) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+5. ❗️ Opened issue [#28](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/28) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
 <!--END_SECTION:activity-->
