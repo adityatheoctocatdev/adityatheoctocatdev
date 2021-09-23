@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#73](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/73) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-2. ❗️ Closed issue [#72](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/72) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-3. ❗️ Closed issue [#71](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/71) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-4. ❗️ Closed issue [#70](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/70) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-5. ❗️ Closed issue [#69](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/69) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+1. 🎉 Merged PR [#76](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/76) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 🎉 Merged PR [#75](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/75) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+3. ❗️ Closed issue [#73](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/73) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+4. ❗️ Closed issue [#72](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/72) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. ❗️ Closed issue [#71](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/71) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
 <!--END_SECTION:activity-->
