@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/thesemicolondevs/hacker_news/issues/5) in [thesemicolondevs/hacker_news](https://github.com/thesemicolondevs/hacker_news)
-2. 🎉 Merged PR [#4](https://github.com/thesemicolondevs/hacker_news/pull/4) in [thesemicolondevs/hacker_news](https://github.com/thesemicolondevs/hacker_news)
-3. ❗️ Closed issue [#3](https://github.com/thesemicolondevs/hacker_news/issues/3) in [thesemicolondevs/hacker_news](https://github.com/thesemicolondevs/hacker_news)
-4. 💪 Opened PR [#4](https://github.com/thesemicolondevs/hacker_news/pull/4) in [thesemicolondevs/hacker_news](https://github.com/thesemicolondevs/hacker_news)
-5. ❗️ Opened issue [#3](https://github.com/thesemicolondevs/hacker_news/issues/3) in [thesemicolondevs/hacker_news](https://github.com/thesemicolondevs/hacker_news)
+1. ❗️ Closed issue [#5](https://github.com/thesemicolondevs/hacker_news/issues/5) in [thesemicolondevs/hacker_news](https://github.com/thesemicolondevs/hacker_news)
+2. 🎉 Merged PR [#6](https://github.com/thesemicolondevs/hacker_news/pull/6) in [thesemicolondevs/hacker_news](https://github.com/thesemicolondevs/hacker_news)
+3. 💪 Opened PR [#6](https://github.com/thesemicolondevs/hacker_news/pull/6) in [thesemicolondevs/hacker_news](https://github.com/thesemicolondevs/hacker_news)
+4. ❗️ Opened issue [#5](https://github.com/thesemicolondevs/hacker_news/issues/5) in [thesemicolondevs/hacker_news](https://github.com/thesemicolondevs/hacker_news)
+5. 🎉 Merged PR [#4](https://github.com/thesemicolondevs/hacker_news/pull/4) in [thesemicolondevs/hacker_news](https://github.com/thesemicolondevs/hacker_news)
 <!--END_SECTION:activity-->
