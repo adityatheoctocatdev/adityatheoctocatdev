@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#35](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/35) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-2. ❗️ Opened issue [#2548](https://github.com/EddieHubCommunity/support/issues/2548) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 💪 Opened PR [#311](https://github.com/EddieHubCommunity/LinkFree/pull/311) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🎉 Merged PR [#1](https://github.com/adityatheoctocatdev/LinkFree/pull/1) in [adityatheoctocatdev/LinkFree](https://github.com/adityatheoctocatdev/LinkFree)
-5. 💪 Opened PR [#1](https://github.com/adityatheoctocatdev/LinkFree/pull/1) in [adityatheoctocatdev/LinkFree](https://github.com/adityatheoctocatdev/LinkFree)
+1. ❗️ Opened issue [#3](https://github.com/thesemicolondevs/hacker_news/issues/3) in [thesemicolondevs/hacker_news](https://github.com/thesemicolondevs/hacker_news)
+2. ❗️ Closed issue [#1](https://github.com/thesemicolondevs/hacker_news/issues/1) in [thesemicolondevs/hacker_news](https://github.com/thesemicolondevs/hacker_news)
+3. 🎉 Merged PR [#2](https://github.com/thesemicolondevs/hacker_news/pull/2) in [thesemicolondevs/hacker_news](https://github.com/thesemicolondevs/hacker_news)
+4. 💪 Opened PR [#2](https://github.com/thesemicolondevs/hacker_news/pull/2) in [thesemicolondevs/hacker_news](https://github.com/thesemicolondevs/hacker_news)
+5. ❗️ Opened issue [#1](https://github.com/thesemicolondevs/hacker_news/issues/1) in [thesemicolondevs/hacker_news](https://github.com/thesemicolondevs/hacker_news)
 <!--END_SECTION:activity-->
