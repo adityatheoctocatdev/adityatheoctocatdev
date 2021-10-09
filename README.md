@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/adityatheoctocatdev/dotfiles/issues/1) in [adityatheoctocatdev/dotfiles](https://github.com/adityatheoctocatdev/dotfiles)
-2. 💪 Opened PR [#135](https://github.com/devcreatives/first_contribution/pull/135) in [devcreatives/first_contribution](https://github.com/devcreatives/first_contribution)
-3. ❗️ Closed issue [#81](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/81) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-4. ❗️ Closed issue [#80](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/80) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-5. 🎉 Merged PR [#82](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/82) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+1. 🎉 Merged PR [#2](https://github.com/adityatheoctocatdev/dotfiles/pull/2) in [adityatheoctocatdev/dotfiles](https://github.com/adityatheoctocatdev/dotfiles)
+2. ❗️ Closed issue [#1](https://github.com/adityatheoctocatdev/dotfiles/issues/1) in [adityatheoctocatdev/dotfiles](https://github.com/adityatheoctocatdev/dotfiles)
+3. 💪 Opened PR [#2](https://github.com/adityatheoctocatdev/dotfiles/pull/2) in [adityatheoctocatdev/dotfiles](https://github.com/adityatheoctocatdev/dotfiles)
+4. ❗️ Opened issue [#1](https://github.com/adityatheoctocatdev/dotfiles/issues/1) in [adityatheoctocatdev/dotfiles](https://github.com/adityatheoctocatdev/dotfiles)
+5. 💪 Opened PR [#135](https://github.com/devcreatives/first_contribution/pull/135) in [devcreatives/first_contribution](https://github.com/devcreatives/first_contribution)
 <!--END_SECTION:activity-->
