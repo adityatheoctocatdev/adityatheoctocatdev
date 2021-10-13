@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/adityatheoctocatdev/dotfiles/pull/2) in [adityatheoctocatdev/dotfiles](https://github.com/adityatheoctocatdev/dotfiles)
-2. ❗️ Closed issue [#1](https://github.com/adityatheoctocatdev/dotfiles/issues/1) in [adityatheoctocatdev/dotfiles](https://github.com/adityatheoctocatdev/dotfiles)
-3. 💪 Opened PR [#2](https://github.com/adityatheoctocatdev/dotfiles/pull/2) in [adityatheoctocatdev/dotfiles](https://github.com/adityatheoctocatdev/dotfiles)
-4. ❗️ Opened issue [#1](https://github.com/adityatheoctocatdev/dotfiles/issues/1) in [adityatheoctocatdev/dotfiles](https://github.com/adityatheoctocatdev/dotfiles)
-5. 💪 Opened PR [#135](https://github.com/devcreatives/first_contribution/pull/135) in [devcreatives/first_contribution](https://github.com/devcreatives/first_contribution)
+1. 💪 Opened PR [#29869](https://github.com/vercel/next.js/pull/29869) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🗣 Commented on [#29829](https://github.com/vercel/next.js/issues/29829) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🎉 Merged PR [#83](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/83) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+4. 🎉 Merged PR [#85](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/85) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. 🎉 Merged PR [#2](https://github.com/adityatheoctocatdev/dotfiles/pull/2) in [adityatheoctocatdev/dotfiles](https://github.com/adityatheoctocatdev/dotfiles)
 <!--END_SECTION:activity-->
