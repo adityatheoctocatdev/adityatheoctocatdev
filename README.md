@@ -50,9 +50,9 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#688](https://github.com/google/quiver-dart/pull/688) in [google/quiver-dart](https://github.com/google/quiver-dart)
-2. ❌ Closed PR [#1](https://github.com/adityatheoctocatdev/quiver-dart/pull/1) in [adityatheoctocatdev/quiver-dart](https://github.com/adityatheoctocatdev/quiver-dart)
-3. 💪 Opened PR [#1](https://github.com/adityatheoctocatdev/quiver-dart/pull/1) in [adityatheoctocatdev/quiver-dart](https://github.com/adityatheoctocatdev/quiver-dart)
-4. 🎉 Merged PR [#86](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/86) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-5. 💪 Opened PR [#29869](https://github.com/vercel/next.js/pull/29869) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 🎉 Merged PR [#36](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/36) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+2. 💪 Opened PR [#688](https://github.com/google/quiver-dart/pull/688) in [google/quiver-dart](https://github.com/google/quiver-dart)
+3. ❌ Closed PR [#1](https://github.com/adityatheoctocatdev/quiver-dart/pull/1) in [adityatheoctocatdev/quiver-dart](https://github.com/adityatheoctocatdev/quiver-dart)
+4. 💪 Opened PR [#1](https://github.com/adityatheoctocatdev/quiver-dart/pull/1) in [adityatheoctocatdev/quiver-dart](https://github.com/adityatheoctocatdev/quiver-dart)
+5. 🎉 Merged PR [#86](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/86) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
 <!--END_SECTION:activity-->
