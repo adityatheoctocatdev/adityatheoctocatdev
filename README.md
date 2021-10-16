@@ -1,6 +1,5 @@
 <div align="center">
-  <p> (◉ᴥ◉) </p>
-  <img src="https://raw.githubusercontent.com/adityatheoctocatdev/adityatheoctocatdev/main/name.svg" alt="Aditya Patel" />
+  <h1 style>Aditya Patel</h1>
 </div>
 
 ## Hey! 👋
