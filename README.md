@@ -1,14 +1,4 @@
-<div align="center">
-  <h1 style>Aditya Patel</h1>
-</div>
-
-## Hey! 👋
-### I'm Aditya, A 21 years old developer from India.
-
-**🧭 Founder at [@thesemicolondevs](https://github.com/thesemicolondevs)**
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=adityatheoctocatdev.adityatheoctocatdev)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
+<img src="./adityatheoctocatdev.jpg" width="100%" />
 
 <p align="center">
   <a href="https://github.com/adityatheoctocatdev?tab=followers">
@@ -49,6 +39,7 @@ if __name__ == "__main__":
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#38](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/38) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
 2. ❗️ Closed issue [#37](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/37) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
 3. 💪 Opened PR [#38](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/38) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
