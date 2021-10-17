@@ -19,7 +19,7 @@ I'm **Aditya**! I'm a **Android Developer** :iphone:, looking to solve **real-wo
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Big fan of 🌈
 
-# 
+## My Contributon Stats 😍
 
 ![adityatheoctocatdev's github activity graph](https://activity-graph.herokuapp.com/graph?username=adityatheoctocatdev&theme=radical&hide_border=true)
 
@@ -76,3 +76,5 @@ I'm **Aditya**! I'm a **Android Developer** :iphone:, looking to solve **real-wo
 4. 💪 Opened PR [#46](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/46) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
 5. ❗️ Opened issue [#45](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/45) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
 <!--END_SECTION:activity-->
+
+<h4 align="center">Thanks for Visiting! 😇</h4>
