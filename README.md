@@ -19,19 +19,6 @@ I'm **Aditya**! I'm a **Android Developer** :iphone:, looking to solve **real-wo
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Big fan of 🌈
 
-## My Contributon Stats 😍
-
-![adityatheoctocatdev's github activity graph](https://activity-graph.herokuapp.com/graph?username=adityatheoctocatdev&theme=radical&hide_border=true)
-
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=adityatheoctocatdev&show_icons=true&theme=radical&hide_border=true">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityatheoctocatdev&show_icons=true&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=adityatheoctocatdev&theme=radical&hide_border=true">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityatheoctocatdev&theme=radical&hide_border=true" />
-  </a>
-</p>
-
 ## My Skills 🚀
 
 <p align="center">
@@ -64,6 +51,19 @@ I'm **Aditya**! I'm a **Android Developer** :iphone:, looking to solve **real-wo
 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
 	<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Supabase&logoColor=white" height="25">
 	<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="25">
+</p>
+
+## My Contributon Stats 😍
+
+![adityatheoctocatdev's github activity graph](https://activity-graph.herokuapp.com/graph?username=adityatheoctocatdev&theme=radical&hide_border=true)
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=adityatheoctocatdev&show_icons=true&theme=radical&hide_border=true">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityatheoctocatdev&show_icons=true&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=adityatheoctocatdev&theme=radical&hide_border=true">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityatheoctocatdev&theme=radical&hide_border=true" />
+  </a>
 </p>
 
 ## Recent Activity ⚡
