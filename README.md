@@ -1,4 +1,4 @@
-<img src="./adityatheoctocatdev.jpg" width="100%" />
+<img src="https://raw.githubusercontent.com/adityatheoctocatdev/adityatheoctocatdev/main/adityatheoctocatdev.svg" width="100%" />
 
 <p align="center">
   <a href="https://github.com/adityatheoctocatdev?tab=followers">
@@ -25,7 +25,7 @@ if __name__ == "__main__":
     me = SoftwareEngineer()
 ```
 
-![adityatheoctocatdev's's github activity graph](https://activity-graph.herokuapp.com/graph?username=adityatheoctocatdev&theme=xcode&hide_border=true)
+![adityatheoctocatdev's github activity graph](https://activity-graph.herokuapp.com/graph?username=adityatheoctocatdev&theme=xcode&hide_border=true)
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=adityatheoctocatdev&show_icons=true&theme=dark&hide_border=true">
