@@ -40,9 +40,9 @@ if __name__ == "__main__":
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#39](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/39) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-2. 🎉 Merged PR [#40](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/40) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-3. 💪 Opened PR [#40](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/40) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-4. ❗️ Opened issue [#39](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/39) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-5. 🎉 Merged PR [#38](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/38) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+1. 🎉 Merged PR [#42](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/42) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+2. ❗️ Closed issue [#41](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/41) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+3. 💪 Opened PR [#42](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/42) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+4. ❗️ Opened issue [#41](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/41) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+5. ❗️ Closed issue [#39](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/39) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
 <!--END_SECTION:activity-->
