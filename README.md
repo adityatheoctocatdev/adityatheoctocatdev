@@ -70,11 +70,11 @@ I'm **Aditya**! I'm a **Android Developer** :iphone:, looking to solve **real-wo
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#50](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/50) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-2. 🎉 Merged PR [#49](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/49) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-3. ❗️ Closed issue [#48](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/48) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-4. 💪 Opened PR [#49](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/49) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-5. ❗️ Opened issue [#48](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/48) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+1. 🎉 Merged PR [#52](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/52) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+2. ❗️ Closed issue [#51](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/51) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+3. 💪 Opened PR [#52](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/52) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+4. ❗️ Opened issue [#51](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/51) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+5. ❗️ Opened issue [#50](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/50) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
