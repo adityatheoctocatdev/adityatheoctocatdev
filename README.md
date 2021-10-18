@@ -66,7 +66,7 @@ I'm **Aditya**! I'm a **Android Developer** :iphone:, looking to solve **real-wo
   </a>
 </p>
 
-## Recent Activity ⚡
+## Recent Activities ⚡
 
 <!--START_SECTION:activity-->
 
