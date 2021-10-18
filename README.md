@@ -5,7 +5,9 @@
 ![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)
 
 <!-- Introduction -->
-I'm **Aditya**! I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
+#### I'm **Aditya Patel**. i'm DevRel at [@thesemicolondevs](https://github.com/thesemicolondevs) & member of [@EddieHubCommunity](https://github.com/EddieHubCommunity) 😍.
+
+I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
 <br><br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 <br><br>
