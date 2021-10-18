@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#53](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/53) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-2. ❗️ Opened issue [#53](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/53) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-3. 💪 Opened PR [#11248](https://github.com/github/docs/pull/11248) in [github/docs](https://github.com/github/docs)
-4. 🎉 Merged PR [#52](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/52) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-5. ❗️ Closed issue [#51](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/51) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+1. ❗️ Closed issue [#54](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/54) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+2. 🎉 Merged PR [#55](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/55) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+3. 💪 Opened PR [#55](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/55) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+4. ❗️ Opened issue [#54](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/54) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+5. ❗️ Closed issue [#53](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/53) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
