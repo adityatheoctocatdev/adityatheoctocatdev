@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#91](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/91) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-2. ❗️ Closed issue [#90](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/90) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-3. 💪 Opened PR [#91](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/91) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-4. ❗️ Opened issue [#90](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/90) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-5. ❗️ Closed issue [#54](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/54) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+1. 💪 Opened PR [#1689](https://github.com/primer/css/pull/1689) in [primer/css](https://github.com/primer/css)
+2. 🎉 Merged PR [#91](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/91) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+3. ❗️ Closed issue [#90](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/90) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+4. 💪 Opened PR [#91](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/91) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. ❗️ Opened issue [#90](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/90) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
