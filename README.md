@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11248](https://github.com/github/docs/issues/11248) in [github/docs](https://github.com/github/docs)
-2. 💪 Opened PR [#270](https://github.com/primer/primer.style/pull/270) in [primer/primer.style](https://github.com/primer/primer.style)
-3. 💪 Opened PR [#6397](https://github.com/flutter/website/pull/6397) in [flutter/website](https://github.com/flutter/website)
-4. 💪 Opened PR [#237](https://github.com/primer/github-vscode-theme/pull/237) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
-5. ❌ Closed PR [#236](https://github.com/primer/github-vscode-theme/pull/236) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+1. 🎉 Merged PR [#92](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/92) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 🗣 Commented on [#11248](https://github.com/github/docs/issues/11248) in [github/docs](https://github.com/github/docs)
+3. 💪 Opened PR [#270](https://github.com/primer/primer.style/pull/270) in [primer/primer.style](https://github.com/primer/primer.style)
+4. 💪 Opened PR [#6397](https://github.com/flutter/website/pull/6397) in [flutter/website](https://github.com/flutter/website)
+5. 💪 Opened PR [#237](https://github.com/primer/github-vscode-theme/pull/237) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
