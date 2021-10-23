@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2804](https://github.com/EddieHubCommunity/support/issues/2804) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🎉 Merged PR [#92](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/92) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-3. 🗣 Commented on [#11248](https://github.com/github/docs/issues/11248) in [github/docs](https://github.com/github/docs)
-4. 💪 Opened PR [#270](https://github.com/primer/primer.style/pull/270) in [primer/primer.style](https://github.com/primer/primer.style)
-5. 💪 Opened PR [#6397](https://github.com/flutter/website/pull/6397) in [flutter/website](https://github.com/flutter/website)
+1. 🗣 Commented on [#1408](https://github.com/anuraghazra/github-readme-stats/issues/1408) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. ❗️ Opened issue [#2804](https://github.com/EddieHubCommunity/support/issues/2804) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🎉 Merged PR [#92](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/92) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+4. 🗣 Commented on [#11248](https://github.com/github/docs/issues/11248) in [github/docs](https://github.com/github/docs)
+5. 💪 Opened PR [#270](https://github.com/primer/primer.style/pull/270) in [primer/primer.style](https://github.com/primer/primer.style)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
