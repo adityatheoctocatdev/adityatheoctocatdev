@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#121](https://github.com/swc-project/website/pull/121) in [swc-project/website](https://github.com/swc-project/website)
-2. 🎉 Merged PR [#4](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/4) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
-3. 🎉 Merged PR [#3](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/3) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
-4. 🎉 Merged PR [#56](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/56) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-5. 🎉 Merged PR [#93](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/93) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+1. 💪 Opened PR [#31131](https://github.com/vercel/next.js/pull/31131) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 💪 Opened PR [#121](https://github.com/swc-project/website/pull/121) in [swc-project/website](https://github.com/swc-project/website)
+3. 🎉 Merged PR [#4](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/4) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
+4. 🎉 Merged PR [#3](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/3) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
+5. 🎉 Merged PR [#56](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/56) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
