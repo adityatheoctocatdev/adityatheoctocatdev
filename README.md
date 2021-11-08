@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/4) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
-2. 🎉 Merged PR [#3](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/3) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
-3. 🎉 Merged PR [#56](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/56) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-4. 🎉 Merged PR [#93](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/93) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-5. 🗣 Commented on [#1408](https://github.com/anuraghazra/github-readme-stats/issues/1408) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+1. 💪 Opened PR [#121](https://github.com/swc-project/website/pull/121) in [swc-project/website](https://github.com/swc-project/website)
+2. 🎉 Merged PR [#4](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/4) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
+3. 🎉 Merged PR [#3](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/3) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
+4. 🎉 Merged PR [#56](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/56) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+5. 🎉 Merged PR [#93](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/93) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
