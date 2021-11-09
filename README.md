@@ -73,10 +73,10 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#31131](https://github.com/vercel/next.js/issues/31131) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🎉 Merged PR [#94](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/94) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-3. 💪 Opened PR [#31131](https://github.com/vercel/next.js/pull/31131) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 💪 Opened PR [#121](https://github.com/swc-project/website/pull/121) in [swc-project/website](https://github.com/swc-project/website)
-5. 🎉 Merged PR [#4](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/4) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
+2. 🗣 Commented on [#31131](https://github.com/vercel/next.js/issues/31131) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🎉 Merged PR [#94](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/94) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+4. 💪 Opened PR [#31131](https://github.com/vercel/next.js/pull/31131) in [vercel/next.js](https://github.com/vercel/next.js)
+5. 💪 Opened PR [#121](https://github.com/swc-project/website/pull/121) in [swc-project/website](https://github.com/swc-project/website)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
