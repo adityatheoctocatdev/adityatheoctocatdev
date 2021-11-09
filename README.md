@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#13](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/13) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
-2. 🎉 Merged PR [#12](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/12) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
-3. 🎉 Merged PR [#11](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/11) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
-4. 🎉 Merged PR [#10](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/10) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
-5. 🎉 Merged PR [#9](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/9) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
+1. ❗️ Closed issue [#12](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer/issues/12) in [adityatheoctocatdev/Pathfinding-Visualizer](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer)
+2. ❌ Closed PR [#28](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/28) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
+3. 🎉 Merged PR [#24](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/24) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
+4. 🎉 Merged PR [#39](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/39) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
+5. 🎉 Merged PR [#38](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/38) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
