@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#95](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/95) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-2. 🗣 Commented on [#31131](https://github.com/vercel/next.js/issues/31131) in [vercel/next.js](https://github.com/vercel/next.js)
-3. 🗣 Commented on [#31131](https://github.com/vercel/next.js/issues/31131) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🎉 Merged PR [#94](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/94) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-5. 💪 Opened PR [#31131](https://github.com/vercel/next.js/pull/31131) in [vercel/next.js](https://github.com/vercel/next.js)
+1. ❗️ Opened issue [#99](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/99) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 🎉 Merged PR [#97](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/97) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+3. 🎉 Merged PR [#4](https://github.com/adityatheoctocatdev/nodejs-note-app-cli/pull/4) in [adityatheoctocatdev/nodejs-note-app-cli](https://github.com/adityatheoctocatdev/nodejs-note-app-cli)
+4. 🎉 Merged PR [#3](https://github.com/adityatheoctocatdev/nodejs-note-app-cli/pull/3) in [adityatheoctocatdev/nodejs-note-app-cli](https://github.com/adityatheoctocatdev/nodejs-note-app-cli)
+5. 🎉 Merged PR [#2](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/2) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
