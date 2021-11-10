@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#73](https://github.com/adityatheoctocatdev/compose-roadmap/pull/73) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-2. 🎉 Merged PR [#46](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/46) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
-3. 🎉 Merged PR [#56](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/56) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
-4. 🎉 Merged PR [#55](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/55) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
-5. 🎉 Merged PR [#74](https://github.com/adityatheoctocatdev/compose-roadmap/pull/74) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+1. 🎉 Merged PR [#72](https://github.com/adityatheoctocatdev/compose-roadmap/pull/72) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+2. 🎉 Merged PR [#73](https://github.com/adityatheoctocatdev/compose-roadmap/pull/73) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+3. 🎉 Merged PR [#46](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/46) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
+4. 🎉 Merged PR [#56](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/56) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
+5. 🎉 Merged PR [#55](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/55) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
