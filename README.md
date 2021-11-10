@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#65](https://github.com/adityatheoctocatdev/compose-roadmap/pull/65) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-2. 🎉 Merged PR [#64](https://github.com/adityatheoctocatdev/compose-roadmap/pull/64) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-3. 🎉 Merged PR [#100](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/100) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-4. 🎉 Merged PR [#72](https://github.com/adityatheoctocatdev/compose-roadmap/pull/72) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-5. 🎉 Merged PR [#73](https://github.com/adityatheoctocatdev/compose-roadmap/pull/73) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+1. 🎉 Merged PR [#66](https://github.com/adityatheoctocatdev/compose-roadmap/pull/66) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+2. 🎉 Merged PR [#65](https://github.com/adityatheoctocatdev/compose-roadmap/pull/65) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+3. 🎉 Merged PR [#64](https://github.com/adityatheoctocatdev/compose-roadmap/pull/64) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+4. 🎉 Merged PR [#100](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/100) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. 🎉 Merged PR [#72](https://github.com/adityatheoctocatdev/compose-roadmap/pull/72) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
