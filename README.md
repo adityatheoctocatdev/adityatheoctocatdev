@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#61](https://github.com/adityatheoctocatdev/compose-roadmap/pull/61) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-2. 🎉 Merged PR [#5](https://github.com/adityatheoctocatdev/shreepad-chatbot/pull/5) in [adityatheoctocatdev/shreepad-chatbot](https://github.com/adityatheoctocatdev/shreepad-chatbot)
-3. 🎉 Merged PR [#4](https://github.com/adityatheoctocatdev/shreepad-chatbot/pull/4) in [adityatheoctocatdev/shreepad-chatbot](https://github.com/adityatheoctocatdev/shreepad-chatbot)
-4. 🎉 Merged PR [#59](https://github.com/adityatheoctocatdev/compose-roadmap/pull/59) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-5. 🎉 Merged PR [#3](https://github.com/adityatheoctocatdev/shreepad-chatbot/pull/3) in [adityatheoctocatdev/shreepad-chatbot](https://github.com/adityatheoctocatdev/shreepad-chatbot)
+1. 🎉 Merged PR [#43](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/43) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
+2. 🎉 Merged PR [#54](https://github.com/adityatheoctocatdev/compose-roadmap/pull/54) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+3. 🎉 Merged PR [#60](https://github.com/adityatheoctocatdev/compose-roadmap/pull/60) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+4. 🎉 Merged PR [#61](https://github.com/adityatheoctocatdev/compose-roadmap/pull/61) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+5. 🎉 Merged PR [#5](https://github.com/adityatheoctocatdev/shreepad-chatbot/pull/5) in [adityatheoctocatdev/shreepad-chatbot](https://github.com/adityatheoctocatdev/shreepad-chatbot)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
