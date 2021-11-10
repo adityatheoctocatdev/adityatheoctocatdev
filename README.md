@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#55](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/55) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
-2. 🎉 Merged PR [#74](https://github.com/adityatheoctocatdev/compose-roadmap/pull/74) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-3. 🎉 Merged PR [#63](https://github.com/adityatheoctocatdev/compose-roadmap/pull/63) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-4. 🎉 Merged PR [#7](https://github.com/adityatheoctocatdev/flutter-roadmap-academind/pull/7) in [adityatheoctocatdev/flutter-roadmap-academind](https://github.com/adityatheoctocatdev/flutter-roadmap-academind)
-5. 🎉 Merged PR [#48](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/48) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
+1. 🎉 Merged PR [#56](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/56) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
+2. 🎉 Merged PR [#55](https://github.com/adityatheoctocatdev/Random-QRCode-Generator/pull/55) in [adityatheoctocatdev/Random-QRCode-Generator](https://github.com/adityatheoctocatdev/Random-QRCode-Generator)
+3. 🎉 Merged PR [#74](https://github.com/adityatheoctocatdev/compose-roadmap/pull/74) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+4. 🎉 Merged PR [#63](https://github.com/adityatheoctocatdev/compose-roadmap/pull/63) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+5. 🎉 Merged PR [#7](https://github.com/adityatheoctocatdev/flutter-roadmap-academind/pull/7) in [adityatheoctocatdev/flutter-roadmap-academind](https://github.com/adityatheoctocatdev/flutter-roadmap-academind)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
