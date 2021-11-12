@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. ❌ Reopened PR [#25](https://github.com/adityatheoctocatdev/compose-roadmap/pull/25) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-2. ❌ Closed PR [#25](https://github.com/adityatheoctocatdev/compose-roadmap/pull/25) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-3. 🎉 Merged PR [#69](https://github.com/adityatheoctocatdev/compose-roadmap/pull/69) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-4. 🎉 Merged PR [#66](https://github.com/adityatheoctocatdev/compose-roadmap/pull/66) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-5. 🎉 Merged PR [#65](https://github.com/adityatheoctocatdev/compose-roadmap/pull/65) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+1. ❗️ Closed issue [#99](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/99) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. ❌ Reopened PR [#25](https://github.com/adityatheoctocatdev/compose-roadmap/pull/25) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+3. ❌ Closed PR [#25](https://github.com/adityatheoctocatdev/compose-roadmap/pull/25) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+4. 🎉 Merged PR [#69](https://github.com/adityatheoctocatdev/compose-roadmap/pull/69) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+5. 🎉 Merged PR [#66](https://github.com/adityatheoctocatdev/compose-roadmap/pull/66) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
