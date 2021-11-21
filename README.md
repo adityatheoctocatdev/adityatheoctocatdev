@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#72](https://github.com/EddieHubCommunity/EventCalendar/pull/72) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-2. 🎉 Merged PR [#12](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/12) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
-3. ❗️ Closed issue [#99](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/99) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-4. ❌ Reopened PR [#25](https://github.com/adityatheoctocatdev/compose-roadmap/pull/25) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-5. ❌ Closed PR [#25](https://github.com/adityatheoctocatdev/compose-roadmap/pull/25) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+1. 🎉 Merged PR [#102](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/102) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 💪 Opened PR [#72](https://github.com/EddieHubCommunity/EventCalendar/pull/72) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+3. 🎉 Merged PR [#12](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/12) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
+4. ❗️ Closed issue [#99](https://github.com/thesemicolondevs/node.js-by-andrew-mead/issues/99) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. ❌ Reopened PR [#25](https://github.com/adityatheoctocatdev/compose-roadmap/pull/25) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
