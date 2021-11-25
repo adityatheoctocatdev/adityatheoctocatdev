@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#80](https://github.com/EddieHubCommunity/EventCalendar/pull/80) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-2. ❗️ Opened issue [#78](https://github.com/EddieHubCommunity/EventCalendar/issues/78) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-3. 🎉 Merged PR [#79](https://github.com/adityatheoctocatdev/compose-roadmap/pull/79) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-4. 🎉 Merged PR [#102](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/102) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-5. 💪 Opened PR [#72](https://github.com/EddieHubCommunity/EventCalendar/pull/72) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+1. 🎉 Merged PR [#103](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/103) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 💪 Opened PR [#80](https://github.com/EddieHubCommunity/EventCalendar/pull/80) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+3. ❗️ Opened issue [#78](https://github.com/EddieHubCommunity/EventCalendar/issues/78) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+4. 🎉 Merged PR [#79](https://github.com/adityatheoctocatdev/compose-roadmap/pull/79) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+5. 🎉 Merged PR [#102](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/102) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
