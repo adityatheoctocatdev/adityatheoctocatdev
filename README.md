@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#13](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/13) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
-2. 🎉 Merged PR [#103](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/103) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-3. 💪 Opened PR [#80](https://github.com/EddieHubCommunity/EventCalendar/pull/80) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-4. ❗️ Opened issue [#78](https://github.com/EddieHubCommunity/EventCalendar/issues/78) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-5. 🎉 Merged PR [#79](https://github.com/adityatheoctocatdev/compose-roadmap/pull/79) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+1. 🎉 Merged PR [#14](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/14) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
+2. 🎉 Merged PR [#13](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/13) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
+3. 🎉 Merged PR [#103](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/103) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+4. 💪 Opened PR [#80](https://github.com/EddieHubCommunity/EventCalendar/pull/80) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+5. ❗️ Opened issue [#78](https://github.com/EddieHubCommunity/EventCalendar/issues/78) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
