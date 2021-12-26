@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/thesemicolondevs/JetTodo/pull/14) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
-2. 💪 Opened PR [#10](https://github.com/thesemicolondevs/JetTodo/pull/10) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
-3. 🎉 Merged PR [#9](https://github.com/thesemicolondevs/JetTodo/pull/9) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
-4. ❗️ Closed issue [#8](https://github.com/thesemicolondevs/JetTodo/issues/8) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
-5. 💪 Opened PR [#9](https://github.com/thesemicolondevs/JetTodo/pull/9) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
+1. 🎉 Merged PR [#111](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/111) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 🎉 Merged PR [#12](https://github.com/thesemicolondevs/JetTodo/pull/12) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
+3. 🎉 Merged PR [#13](https://github.com/thesemicolondevs/JetTodo/pull/13) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
+4. 🎉 Merged PR [#14](https://github.com/thesemicolondevs/JetTodo/pull/14) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
+5. 💪 Opened PR [#10](https://github.com/thesemicolondevs/JetTodo/pull/10) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
