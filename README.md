@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#84](https://github.com/adityatheoctocatdev/compose-roadmap/pull/84) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-2. 🎉 Merged PR [#11](https://github.com/adityatheoctocatdev/flutter-roadmap-academind/pull/11) in [adityatheoctocatdev/flutter-roadmap-academind](https://github.com/adityatheoctocatdev/flutter-roadmap-academind)
-3. 🎉 Merged PR [#111](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/111) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-4. 🎉 Merged PR [#12](https://github.com/thesemicolondevs/JetTodo/pull/12) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
-5. 🎉 Merged PR [#13](https://github.com/thesemicolondevs/JetTodo/pull/13) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
+1. 🎉 Merged PR [#112](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/112) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 🎉 Merged PR [#84](https://github.com/adityatheoctocatdev/compose-roadmap/pull/84) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+3. 🎉 Merged PR [#11](https://github.com/adityatheoctocatdev/flutter-roadmap-academind/pull/11) in [adityatheoctocatdev/flutter-roadmap-academind](https://github.com/adityatheoctocatdev/flutter-roadmap-academind)
+4. 🎉 Merged PR [#111](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/111) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. 🎉 Merged PR [#12](https://github.com/thesemicolondevs/JetTodo/pull/12) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
