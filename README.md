@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#14741](https://github.com/github/docs/pull/14741) in [github/docs](https://github.com/github/docs)
-2. 🎉 Merged PR [#16](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer/pull/16) in [adityatheoctocatdev/Pathfinding-Visualizer](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer)
-3. ❌ Reopened PR [#11](https://github.com/thesemicolondevs/JetTodo/pull/11) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
-4. 🗣 Commented on [#11](https://github.com/thesemicolondevs/JetTodo/issues/11) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
-5. 🗣 Commented on [#11](https://github.com/thesemicolondevs/JetTodo/issues/11) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
+1. 🎉 Merged PR [#60](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/60) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+2. ❗️ Closed issue [#59](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/59) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+3. 💪 Opened PR [#60](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/60) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+4. ❗️ Opened issue [#59](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/59) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+5. 💪 Opened PR [#14741](https://github.com/github/docs/pull/14741) in [github/docs](https://github.com/github/docs)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
