@@ -13,10 +13,10 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 <br><br>
 
 <!-- Contributions -->
-- 🔭 I’m currently working on my MERN Stack
-- 🌱 I’m currently learning Backend & APIs & Andoird Development.
-- 👯 I’m looking to collaborate on Full stack web development
-- 🤔 I’m looking for help with Backend & APIs
+- 🔭 I’m currently working on Building my knowledge.
+- 🌱 I’m currently learning Backend & APIs, Mobile Development & really excited for **[@remix-run](https://github.com/remix-run/remix)** and **[@flutter](https://github.com/flutter/flutter)**.
+- 👯 I’m looking to collaborate on Full stack web development & Mobile development
+- 🤔 I’m looking for help with Backend & APIs & Flutter
 - 💬 Ask me about Anything, i will try to solve it according to my knowlwdge.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Big fan of 🌈
