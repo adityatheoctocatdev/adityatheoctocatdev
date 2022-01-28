@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. ❌ Reopened PR [#11](https://github.com/thesemicolondevs/JetTodo/pull/11) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
-2. 🗣 Commented on [#11](https://github.com/thesemicolondevs/JetTodo/issues/11) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
+1. 🎉 Merged PR [#16](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer/pull/16) in [adityatheoctocatdev/Pathfinding-Visualizer](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer)
+2. ❌ Reopened PR [#11](https://github.com/thesemicolondevs/JetTodo/pull/11) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
 3. 🗣 Commented on [#11](https://github.com/thesemicolondevs/JetTodo/issues/11) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
 4. 🗣 Commented on [#11](https://github.com/thesemicolondevs/JetTodo/issues/11) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
-5. 🎉 Merged PR [#85](https://github.com/adityatheoctocatdev/compose-roadmap/pull/85) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+5. 🗣 Commented on [#11](https://github.com/thesemicolondevs/JetTodo/issues/11) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
