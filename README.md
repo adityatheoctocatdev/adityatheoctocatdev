@@ -72,9 +72,9 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#16](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer/pull/16) in [adityatheoctocatdev/Pathfinding-Visualizer](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer)
-2. ❌ Reopened PR [#11](https://github.com/thesemicolondevs/JetTodo/pull/11) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
-3. 🗣 Commented on [#11](https://github.com/thesemicolondevs/JetTodo/issues/11) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
+1. 💪 Opened PR [#14741](https://github.com/github/docs/pull/14741) in [github/docs](https://github.com/github/docs)
+2. 🎉 Merged PR [#16](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer/pull/16) in [adityatheoctocatdev/Pathfinding-Visualizer](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer)
+3. ❌ Reopened PR [#11](https://github.com/thesemicolondevs/JetTodo/pull/11) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
 4. 🗣 Commented on [#11](https://github.com/thesemicolondevs/JetTodo/issues/11) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
 5. 🗣 Commented on [#11](https://github.com/thesemicolondevs/JetTodo/issues/11) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
 <!--END_SECTION:activity-->
