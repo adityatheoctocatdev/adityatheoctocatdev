@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#60](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/60) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-2. ❗️ Closed issue [#59](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/59) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-3. 💪 Opened PR [#60](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/60) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-4. ❗️ Opened issue [#59](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/59) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-5. 💪 Opened PR [#14741](https://github.com/github/docs/pull/14741) in [github/docs](https://github.com/github/docs)
+1. 🎉 Merged PR [#115](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/115) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 🎉 Merged PR [#60](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/60) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+3. ❗️ Closed issue [#59](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/59) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+4. 💪 Opened PR [#60](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/60) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+5. ❗️ Opened issue [#59](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/59) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
