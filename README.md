@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/adityatheoctocatdev/shreepad-chatbot/pull/7) in [adityatheoctocatdev/shreepad-chatbot](https://github.com/adityatheoctocatdev/shreepad-chatbot)
-2. 🎉 Merged PR [#115](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/115) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-3. 🎉 Merged PR [#60](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/60) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-4. ❗️ Closed issue [#59](https://github.com/adityatheoctocatdev/adityatheoctocatdev/issues/59) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
-5. 💪 Opened PR [#60](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/60) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
+1. 🎉 Merged PR [#8](https://github.com/adityatheoctocatdev/shreepad-chatbot/pull/8) in [adityatheoctocatdev/shreepad-chatbot](https://github.com/adityatheoctocatdev/shreepad-chatbot)
+2. 🎉 Merged PR [#10](https://github.com/adityatheoctocatdev/shreepad-chatbot/pull/10) in [adityatheoctocatdev/shreepad-chatbot](https://github.com/adityatheoctocatdev/shreepad-chatbot)
+3. 🎉 Merged PR [#7](https://github.com/adityatheoctocatdev/shreepad-chatbot/pull/7) in [adityatheoctocatdev/shreepad-chatbot](https://github.com/adityatheoctocatdev/shreepad-chatbot)
+4. 🎉 Merged PR [#115](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/115) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. 🎉 Merged PR [#60](https://github.com/adityatheoctocatdev/adityatheoctocatdev/pull/60) in [adityatheoctocatdev/adityatheoctocatdev](https://github.com/adityatheoctocatdev/adityatheoctocatdev)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
