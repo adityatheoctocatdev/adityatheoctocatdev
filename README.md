@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#17](https://github.com/thesemicolondevs/JetTodo/pull/17) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
-2. 🎉 Merged PR [#15](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/15) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
-3. 🎉 Merged PR [#16](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/16) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
-4. 🎉 Merged PR [#117](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/117) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-5. 🎉 Merged PR [#91](https://github.com/adityatheoctocatdev/compose-roadmap/pull/91) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+1. 🎉 Merged PR [#119](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/119) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 🎉 Merged PR [#20](https://github.com/thesemicolondevs/JetTodo/pull/20) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
+3. 🎉 Merged PR [#121](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/121) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+4. 🎉 Merged PR [#19](https://github.com/thesemicolondevs/JetTodo/pull/19) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
+5. 🎉 Merged PR [#17](https://github.com/thesemicolondevs/JetTodo/pull/17) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
