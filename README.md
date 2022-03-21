@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#22](https://github.com/thesemicolondevs/JetTodo/pull/22) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
-2. 🎉 Merged PR [#95](https://github.com/adityatheoctocatdev/compose-roadmap/pull/95) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-3. 🎉 Merged PR [#23](https://github.com/thesemicolondevs/JetTodo/pull/23) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
-4. 🎉 Merged PR [#25](https://github.com/thesemicolondevs/JetTodo/pull/25) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
-5. 🎉 Merged PR [#104](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/104) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+1. 🎉 Merged PR [#127](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/127) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 🎉 Merged PR [#22](https://github.com/thesemicolondevs/JetTodo/pull/22) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
+3. 🎉 Merged PR [#95](https://github.com/adityatheoctocatdev/compose-roadmap/pull/95) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+4. 🎉 Merged PR [#23](https://github.com/thesemicolondevs/JetTodo/pull/23) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
+5. 🎉 Merged PR [#25](https://github.com/thesemicolondevs/JetTodo/pull/25) in [thesemicolondevs/JetTodo](https://github.com/thesemicolondevs/JetTodo)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
