@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#129](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/129) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-2. 🎉 Merged PR [#131](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/131) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-3. 🎉 Merged PR [#18](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/18) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
-4. 🎉 Merged PR [#19](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/19) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
-5. 🎉 Merged PR [#18](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer/pull/18) in [adityatheoctocatdev/Pathfinding-Visualizer](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer)
+1. 🎉 Merged PR [#130](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/130) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 🎉 Merged PR [#128](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/128) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+3. 🎉 Merged PR [#129](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/129) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+4. 🎉 Merged PR [#131](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/131) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. 🎉 Merged PR [#18](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead/pull/18) in [adityatheoctocatdev/NodeJs_Andrew-Mead](https://github.com/adityatheoctocatdev/NodeJs_Andrew-Mead)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
