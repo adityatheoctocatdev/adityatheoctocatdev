@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#145](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/145) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-2. 🎉 Merged PR [#102](https://github.com/adityatheoctocatdev/compose-roadmap/pull/102) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-3. 🎉 Merged PR [#19](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer/pull/19) in [adityatheoctocatdev/Pathfinding-Visualizer](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer)
-4. 🎉 Merged PR [#101](https://github.com/adityatheoctocatdev/compose-roadmap/pull/101) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-5. 🎉 Merged PR [#140](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/140) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+1. 🎉 Merged PR [#144](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/144) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 🎉 Merged PR [#143](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/143) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+3. 🎉 Merged PR [#145](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/145) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+4. 🎉 Merged PR [#102](https://github.com/adityatheoctocatdev/compose-roadmap/pull/102) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+5. 🎉 Merged PR [#19](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer/pull/19) in [adityatheoctocatdev/Pathfinding-Visualizer](https://github.com/adityatheoctocatdev/Pathfinding-Visualizer)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
