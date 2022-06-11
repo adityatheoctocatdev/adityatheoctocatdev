@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#18](https://github.com/adityatheoctocatdev/flutter-roadmap-academind/pull/18) in [adityatheoctocatdev/flutter-roadmap-academind](https://github.com/adityatheoctocatdev/flutter-roadmap-academind)
-2. 🎉 Merged PR [#151](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/151) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-3. 🎉 Merged PR [#144](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/144) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-4. 🎉 Merged PR [#143](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/143) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-5. 🎉 Merged PR [#145](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/145) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+1. 🎉 Merged PR [#146](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/146) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+2. 🎉 Merged PR [#18](https://github.com/adityatheoctocatdev/flutter-roadmap-academind/pull/18) in [adityatheoctocatdev/flutter-roadmap-academind](https://github.com/adityatheoctocatdev/flutter-roadmap-academind)
+3. 🎉 Merged PR [#151](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/151) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+4. 🎉 Merged PR [#144](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/144) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+5. 🎉 Merged PR [#143](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/143) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
