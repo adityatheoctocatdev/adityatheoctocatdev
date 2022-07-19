@@ -72,11 +72,11 @@ I'm a **Android Developer** :iphone:, looking to solve **real-world problems** :
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#159](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/159) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
-2. 🎉 Merged PR [#20](https://github.com/adityatheoctocatdev/flutter-roadmap-academind/pull/20) in [adityatheoctocatdev/flutter-roadmap-academind](https://github.com/adityatheoctocatdev/flutter-roadmap-academind)
-3. 🎉 Merged PR [#106](https://github.com/adityatheoctocatdev/compose-roadmap/pull/106) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
-4. 🎉 Merged PR [#15](https://github.com/adityatheoctocatdev/shreepad-chatbot/pull/15) in [adityatheoctocatdev/shreepad-chatbot](https://github.com/adityatheoctocatdev/shreepad-chatbot)
-5. 🎉 Merged PR [#134](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/134) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+1. 🎉 Merged PR [#14](https://github.com/adityatheoctocatdev/shreepad-chatbot/pull/14) in [adityatheoctocatdev/shreepad-chatbot](https://github.com/adityatheoctocatdev/shreepad-chatbot)
+2. 🎉 Merged PR [#159](https://github.com/thesemicolondevs/node.js-by-andrew-mead/pull/159) in [thesemicolondevs/node.js-by-andrew-mead](https://github.com/thesemicolondevs/node.js-by-andrew-mead)
+3. 🎉 Merged PR [#20](https://github.com/adityatheoctocatdev/flutter-roadmap-academind/pull/20) in [adityatheoctocatdev/flutter-roadmap-academind](https://github.com/adityatheoctocatdev/flutter-roadmap-academind)
+4. 🎉 Merged PR [#106](https://github.com/adityatheoctocatdev/compose-roadmap/pull/106) in [adityatheoctocatdev/compose-roadmap](https://github.com/adityatheoctocatdev/compose-roadmap)
+5. 🎉 Merged PR [#15](https://github.com/adityatheoctocatdev/shreepad-chatbot/pull/15) in [adityatheoctocatdev/shreepad-chatbot](https://github.com/adityatheoctocatdev/shreepad-chatbot)
 <!--END_SECTION:activity-->
 
 <h4 align="center">Thanks for Visiting! 😇</h4>
